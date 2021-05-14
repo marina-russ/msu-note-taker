@@ -1,6 +1,7 @@
 # msu-note-taker
+Application to create and save notes.
 
-Note: Part of the assignment was to closely match a provided design, I did not create the design for this app. 
+Note: Part of the assignment was to match a provided design, I did not create the design for this app. 
 
 ## User Story
 
@@ -8,8 +9,10 @@ Note: Part of the assignment was to closely match a provided design, I did not c
 > **I WANT** to be able to write and save notes <br> 
 > **SO THAT** I can organize my thoughts and keep track of tasks I need to complete
 
-## Direction for Future Development
+## Languages
+Node, Express.js, Javascript, HTML, CSS
 
+## Direction for Future Development
 * Add ability for user to delete existing notes
 
 ## App Demo
